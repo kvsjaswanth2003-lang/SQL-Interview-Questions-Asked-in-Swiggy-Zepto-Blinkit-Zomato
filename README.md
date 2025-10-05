@@ -39,6 +39,13 @@ Write a SQL query to find the item that was ordered the most number of times.
 
 ---
 
+📌 Disclaimer
+This repository is purely for learning & interview preparation purposes.
+
+Questions are inspired by common interview patterns and do not represent the exact proprietary interview material of any company.
+
+---
+
 🌟 Support
 If you find this repo helpful, don’t forget to star ⭐ this repository and share it with your peers!
 ---
