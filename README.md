@@ -43,5 +43,4 @@ Write a SQL query to find the item that was ordered the most number of times.
 If you find this repo helpful, don’t forget to star ⭐ this repository and share it with your peers!
 ---
 
-## 📢 Contribution
-If you have faced SQL interview questions from **Swiggy, Zepto, Blinkit, or Zomato**, feel free to add them here via PR.  
+ 
